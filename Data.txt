@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFSsyP.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 1",
+            "text_Content_": "In the ever-evolving world of online gaming, there's always room for innovation and fresh ideas. "Scary Hide and Hide in Chicken Gun" is one such unique game that has taken the gaming community by storm"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFSi8B.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 2",
+            "text_Content_": "This multiplayer sensation offers an adrenaline-pumping experience like no other, combining elements of hide-and-seek with a comical twist involving chickens and firearms. In this article, we'll explore the game's concept, gameplay, and why it's become such a hit among gamers"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFSPaV.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 3",
+            "text_Content_": "The goal for the chickens is simple: stay hidden and avoid getting caught by the hunters. The hunters, armed with an array of bizarre weapons, must find and eliminate the chickens before time runs out"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFEw74.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 4",
+            "text_Content_": "Players start by selecting whether they want to be a chicken or a hunter. This choice sets the tone for the entire game"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFSvje.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 5",
+            "text_Content_": "As a chicken, your mission is to blend into the environment and avoid detection by the hunters"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFS8Zu.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 6",
+            "text_Content_": "Your goal is to survive until the timer runs out or until all the hunters have been eliminated"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFSUCb.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 7",
+            "text_Content_": "Hunters wield an arsenal of quirky weapons, from rubber chickens that fire explosive eggs to chicken-seeking missiles"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFSgGj.webp",
+            "title": "SCARY HIDE AND HIDE IN CHICKEN GUN 8",
+            "text_Content_": "The hunters must use their wits and weaponry to uncover and eliminate the hiding chickens before time runs ou"
         }
     ]
 }
